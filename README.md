@@ -1,4 +1,4 @@
-# CPU Scheduling Simulator
+# CPU Process Scheduling Simulator
 
 A **menu-driven CPU scheduling simulator** implemented in **C**, demonstrating classic CPU scheduling algorithms used in Operating Systems.
 The program allows users to add processes, apply different scheduling algorithms, view the ready queue, manually preempt processes, and display a Gantt chart.
