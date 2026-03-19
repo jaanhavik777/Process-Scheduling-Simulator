@@ -128,3 +128,5 @@ This project helps understand:
 * Heap-based scheduling
 * Real-time simulation of scheduling decisions
 
+## Authors:
+Jaanhavi Ashwin Kher, Krishna Manoj, Kushi Niranjana
